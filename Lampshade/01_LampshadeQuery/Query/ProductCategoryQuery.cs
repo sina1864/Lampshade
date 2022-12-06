@@ -8,12 +8,17 @@ using ShopManagement.Domain.ProductAgg;
 using ShopManagement.Infrastructure.EFCore;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 
 namespace _01_LampshadeQuery.Query
 {
     public class ProductCategoryQuery : IProductCategoryQuery
     {
+        private const int Size = 2;
+        public string Id { get; set; }
+        public static int PageNum { get; set; }
+
         private readonly ShopContext _context;
         private readonly InventoryContext _inventoryContext;
         private readonly DiscountContext _discountContext;
@@ -53,7 +58,16 @@ namespace _01_LampshadeQuery.Query
                 {
                     Id = x.Id,
                     Name = x.Name,
-                    Products = MapProducts(x.Products)
+                    Products = x.Products.Select(product => new ProductQueryModel
+                    {
+                        Id = product.Id,
+                        Category = product.Category.Name,
+                        Name = product.Name,
+                        Picture = product.Picture,
+                        PictureAlt = product.PictureAlt,
+                        PictureTitle = product.PictureTitle,
+                        Slug = product.Slug
+                    }).OrderByDescending(x => x.Id).Take(3).ToList()
                 }).AsNoTracking().ToList();
 
             foreach (var category in categories)
@@ -83,6 +97,9 @@ namespace _01_LampshadeQuery.Query
 
         private static List<ProductQueryModel> MapProducts(List<Product> products)
         {
+            var skip = (PageNum - 1) * Size;
+            var take = Size;
+
             return products.Select(product => new ProductQueryModel
             {
                 Id = product.Id,
@@ -92,11 +109,14 @@ namespace _01_LampshadeQuery.Query
                 PictureAlt = product.PictureAlt,
                 PictureTitle = product.PictureTitle,
                 Slug = product.Slug
-            }).ToList();
+            }).OrderByDescending(x => x.Id).Skip(skip).Take(take).ToList();
         }
 
-        public ProductCategoryQueryModel GetProductCategoryWithProducstsBy(string slug)
+        public ProductCategoryQueryModel GetProductCategoryWithProducstsBy(string id, int pagenum)
         {
+            Id = id;
+            PageNum = pagenum;
+
             var inventory = _inventoryContext.Inventory.Select(x =>
                 new { x.ProductId, x.UnitPrice }).ToList();
             var discounts = _discountContext.CustomerDiscounts
@@ -115,7 +135,7 @@ namespace _01_LampshadeQuery.Query
                     Keywords = x.Keywords,
                     Slug = x.Slug,
                     Products = MapProducts(x.Products)
-                }).AsNoTracking().FirstOrDefault(x => x.Slug == slug);
+                }).AsNoTracking().FirstOrDefault(x => x.Slug == Id);
 
             foreach (var product in catetory.Products)
             {
@@ -138,6 +158,58 @@ namespace _01_LampshadeQuery.Query
             }
 
             return catetory;
+        }
+
+        public int GetTotalPages(string id, int pagenum)
+        {
+            var inventory = _inventoryContext.Inventory.Select(x =>
+                new { x.ProductId, x.UnitPrice }).ToList();
+            var discounts = _discountContext.CustomerDiscounts
+                .Where(x => x.StartDate < DateTime.Now && x.EndDate > DateTime.Now)
+                .Select(x => new { x.DiscountRate, x.ProductId, x.EndDate }).ToList();
+
+            var catetory = _context.ProductCategories
+                .Include(a => a.Products)
+                .ThenInclude(x => x.Category)
+                .Select(x => new ProductCategoryQueryModel
+                {
+                    Id = x.Id,
+                    Name = x.Name,
+                    Description = x.Description,
+                    MetaDescription = x.MetaDescription,
+                    Keywords = x.Keywords,
+                    Slug = x.Slug,
+                    Products = MapProducts(x.Products)
+                }).AsNoTracking().FirstOrDefault(x => x.Slug == Id);
+
+            foreach (var product in catetory.Products)
+            {
+                var productInventory = inventory.FirstOrDefault(x => x.ProductId == product.Id);
+                if (productInventory != null)
+                {
+                    var price = productInventory.UnitPrice;
+                    product.Price = price.ToMoney();
+                    var discount = discounts.FirstOrDefault(x => x.ProductId == product.Id);
+                    if (discount != null)
+                    {
+                        int discountRate = discount.DiscountRate;
+                        product.DiscountRate = discountRate;
+                        product.DiscountExpireDate = discount.EndDate.ToDiscountFormat();
+                        product.HasDiscount = discountRate > 0;
+                        var discountAmount = Math.Round((price * discountRate) / 100);
+                        product.PriceWithDiscount = (price - discountAmount).ToMoney();
+                    }
+                }
+            }
+
+            var count = catetory.Products.Count;
+            var totalPages = (int)Math.Ceiling(decimal.Divide(count, Size))+1;
+            var firstPage = 1;
+            var lastPage = totalPages;
+            var prevPage = Math.Max(PageNum - 1, firstPage);
+            var nextPage = Math.Min(PageNum + 1, lastPage);
+
+            return totalPages;
         }
     }
 }

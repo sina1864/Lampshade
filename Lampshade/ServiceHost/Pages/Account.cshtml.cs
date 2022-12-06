@@ -1,12 +1,17 @@
+using System;
 using AccountManagement.Application.Contracts.Account;
+using AspNetCore.ReCaptcha;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore.ChangeTracking;
 
 namespace ServiceHost.Pages
 {
+    [ValidateReCaptcha]
     public class AccountModel : PageModel
     {
+        public Login Login;
+        public RegisterAccount Register;
+
         [TempData]
         public string LoginMessage { get; set; }
 
@@ -30,7 +35,6 @@ namespace ServiceHost.Pages
             var result = _accountApplication.Login(command);
             if (result.IsSuccedded)
                 return RedirectToPage("/Index");
-
             LoginMessage = result.Message;
             return RedirectToPage("/Account");
         }
@@ -45,7 +49,7 @@ namespace ServiceHost.Pages
         {
             var result = _accountApplication.Register(command);
             if (result.IsSuccedded)
-                return RedirectToPage("/Account");
+                return Redirect("/EmailConfirmation" + "?email=" + command.Email);
             RegisterMessage = result.Message;
             return RedirectToPage("/Account");
         }

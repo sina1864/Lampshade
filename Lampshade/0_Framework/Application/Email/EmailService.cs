@@ -9,7 +9,7 @@ namespace _0_Framework.Application.Email
         {
             var message = new MimeMessage();
 
-            var from = new MailboxAddress("Atriya", "test@atriya.com");
+            var from = new MailboxAddress("Ethereal", "marielle.macgyver66@ethereal.email");
             message.From.Add(from);
 
             var to = new MailboxAddress("User", destination);
@@ -24,8 +24,8 @@ namespace _0_Framework.Application.Email
             message.Body = bodyBuilder.ToMessageBody();
 
             var client = new SmtpClient();
-            client.Connect("185.88.152.251", 25, false);
-            client.Authenticate("test@atriya.com", "Atriya.123456");
+            client.Connect("smtp.ethereal.email", 587, false);
+            client.Authenticate("marielle.macgyver66@ethereal.email", "GaVuMkvs2YC8nMnq3E");
             client.Send(message);
             client.Disconnect(true);
             client.Dispose();

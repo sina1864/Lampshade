@@ -14,3 +14,54 @@ C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\Inv
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.CopyComplete
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.dll
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.AssemblyReference.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.AssemblyInfoInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.AssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.deps.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\0_Framework.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\0_Framework.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.CopyComplete
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\refint\InventoryManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\ref\InventoryManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.deps.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\0_Framework.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\0_Framework.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.AssemblyReference.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.AssemblyInfoInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.AssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.CopyComplete
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\refint\InventoryManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\ref\InventoryManagement.Application.Contract.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\refint\InventoryManagement.Application.Contract.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.deps.json
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\0_Framework.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\0_Framework.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.AssemblyReference.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.AssemblyInfoInputs.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.AssemblyInfo.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.CoreCompileInputs.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.csproj.CopyComplete
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contract\obj\Debug\net5.0\ref\InventoryManagement.Application.Contract.dll

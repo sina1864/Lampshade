@@ -13,6 +13,7 @@
       data-callback=""
       data-action="Refresh"
       enctype="multipart/form-data">
+    <input type="hidden" asp-for="ParentId" />
     <div class="modal-body">
         <div class="row">
             <div class="col-md-6">
@@ -21,7 +22,8 @@
                     <input type="text" class="form-control" asp-for="Name" onchange="makeSlug('Name', 'Slug')">
                     <span asp-validation-for="Name" class="error"></span>
                 </div>
-            </div><div class="col-md-6">
+            </div>
+            <div class="col-md-6">
                 <div class="form-group">
                     <label asp-for="Slug" class="control-label">اسلاگ</label>
                     <input type="text" class="form-control" asp-for="Slug">

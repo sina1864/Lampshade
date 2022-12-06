@@ -282,3 +282,889 @@ C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\Ser
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\MimeKit.dll
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\crypto.dll
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.AssemblyReference.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.AssemblyInfoInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.AssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorAssemblyInfo.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorAssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\appsettings.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\appsettings.Development.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.StaticWebAssets.xml
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.exe
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.deps.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.runtimeconfig.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.runtimeconfig.dev.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.Views.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.Views.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\MailKit.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\MimeKit.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Nancy.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\crypto.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\RestSharp.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\SmsIrRestful.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win7-x86\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\0_Framework.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Configuration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.Configuration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Configuration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Presentation.Api.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Configuration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.AccountAcl.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.InventoryAcl.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Presentation.Api.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Configuration.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.Configuration.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Configuration.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Presentation.Api.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Configuration.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Presentation.Api.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\0_Framework.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.AccountAcl.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.InventoryAcl.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\scopedcss\bundle\ServiceHost.styles.css
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\ServiceHost.StaticWebAssets.Manifest.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\ServiceHost.StaticWebAssets.Pack.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\msbuild.ServiceHost.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\msbuild.build.ServiceHost.props
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ServiceHost.props
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ServiceHost.props
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.TagHelpers.input.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.TagHelpers.output.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorCoreGenerate.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\ChangePassword.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Role\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Role\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Role\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Comments\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscounts\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscounts\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscounts\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Increase.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\OperationLog.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Reduce.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_AdminLayout.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_Menu.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Orders\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Orders\Items.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewImports.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewStart.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\AccessDenied.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Account.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Article.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ArticleCategory.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Cart.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Checkout.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\PaymentResult.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Product.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ProductCategory.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Search.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Footer\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\LatestArrivals\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\LatestArticles\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Menu\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategoryWithProduct\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategory\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slide\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorTargetAssemblyInfo.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorTargetAssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.Views.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.CopyComplete
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\refint\ServiceHost.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.genruntimeconfig.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ref\ServiceHost.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\appsettings.Development.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\appsettings.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.StaticWebAssets.xml
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.exe
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.deps.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.runtimeconfig.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.runtimeconfig.dev.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.Views.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.Views.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\MailKit.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\MimeKit.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Nancy.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\crypto.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\RestSharp.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\SmsIrRestful.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win7-x86\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\0_Framework.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Configuration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.Configuration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Configuration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Presentation.Api.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Configuration.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.AccountAcl.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.InventoryAcl.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Presentation.Api.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Configuration.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.Configuration.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Configuration.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Presentation.Api.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Configuration.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Presentation.Api.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\0_Framework.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.AccountAcl.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.InventoryAcl.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.AssemblyReference.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.AssemblyInfoInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.AssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorAssemblyInfo.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorAssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\scopedcss\bundle\ServiceHost.styles.css
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\ServiceHost.StaticWebAssets.Manifest.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\ServiceHost.StaticWebAssets.Pack.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\msbuild.ServiceHost.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\msbuild.build.ServiceHost.props
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ServiceHost.props
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ServiceHost.props
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.TagHelpers.input.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.TagHelpers.output.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorCoreGenerate.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\ChangePassword.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Role\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Role\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Role\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Comments\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscounts\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscounts\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscounts\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Increase.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\OperationLog.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Reduce.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_AdminLayout.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_Menu.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Orders\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Orders\Items.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Create.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Edit.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewImports.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewStart.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\AccessDenied.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Account.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Article.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ArticleCategory.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Cart.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Checkout.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\PaymentResult.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Product.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ProductCategory.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Search.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Footer\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\LatestArrivals\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\LatestArticles\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Menu\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategoryWithProduct\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategory\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slide\Default.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorTargetAssemblyInfo.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorTargetAssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.Views.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.CopyComplete
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\refint\ServiceHost.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.genruntimeconfig.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ref\ServiceHost.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ResetPassword.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ForgotPassword.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\EmailConfirmation.cshtml.g.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AspNetCore.ReCaptcha.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\nl\AspNetCore.ReCaptcha.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\refint\ServiceHost.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\appsettings.json
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.StaticWebAssets.xml
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\appsettings.Development.json
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.exe
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.deps.json
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.runtimeconfig.json
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.runtimeconfig.dev.json
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.Views.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ServiceHost.Views.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AspNetCore.ReCaptcha.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\MailKit.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\MimeKit.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Nancy.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\NuGet.Frameworks.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\crypto.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\RestSharp.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\SmsIrRestful.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\nl\AspNetCore.ReCaptcha.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win7-x86\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\0_Framework.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Configuration.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.Configuration.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Configuration.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Presentation.Api.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Application.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Configuration.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.AccountAcl.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.InventoryAcl.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Presentation.Api.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Configuration.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.Configuration.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Configuration.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Presentation.Api.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Configuration.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Presentation.Api.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\0_Framework.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommentManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Application.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.AccountAcl.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\ShopManagement.Infrastructure.InventoryAcl.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.AssemblyReference.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.AssemblyInfoInputs.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.AssemblyInfo.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.CoreCompileInputs.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorAssemblyInfo.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorAssemblyInfo.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\scopedcss\bundle\ServiceHost.styles.css
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\ServiceHost.StaticWebAssets.Manifest.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\ServiceHost.StaticWebAssets.Pack.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\msbuild.ServiceHost.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\msbuild.build.ServiceHost.props
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ServiceHost.props
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ServiceHost.props
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.TagHelpers.input.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.TagHelpers.output.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorCoreGenerate.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\ChangePassword.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\Create.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\Edit.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Account\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Role\Create.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Role\Edit.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Accounts\Role\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Create.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Edit.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\ArticleCategories\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Create.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Edit.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Blog\Articles\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Comments\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscounts\Create.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscounts\Edit.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\ColleagueDiscounts\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Create.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Edit.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Create.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Edit.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Increase.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\OperationLog.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Reduce.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_AdminLayout.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_Menu.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Orders\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Orders\Items.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Create.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Edit.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductCategories\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Create.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Edit.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\ProductPictures\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Create.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Edit.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Create.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Edit.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewImports.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewStart.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\AccessDenied.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Account.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Article.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ArticleCategory.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Cart.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Checkout.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\EmailConfirmation.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ForgotPassword.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\PaymentResult.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Product.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ProductCategory.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ResetPassword.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Search.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Footer\Default.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\LatestArrivals\Default.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\LatestArticles\Default.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Menu\Default.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategoryWithProduct\Default.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategory\Default.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slide\Default.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorTargetAssemblyInfo.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorTargetAssemblyInfo.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.Views.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.CopyComplete
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.genruntimeconfig.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ref\ServiceHost.dll

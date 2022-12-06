@@ -22,19 +22,20 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategories
         }
 
         [NeedsPermission(ShopPermissions.ListProductCategories)]
-        public void OnGet(ProductCategorySearchModel searchModel)
+        public void OnGet(long? parentId, ProductCategorySearchModel searchModel)
         {
             ProductCategories = _productCategoryApplication.Search(searchModel);
         }
 
-        public IActionResult OnGetCreate()
+        public IActionResult OnGetCreate(long? parentId)
         {
             return Partial("./Create", new CreateProductCategory());
         }
 
         [NeedsPermission(ShopPermissions.CreateProductCategory)]
-        public JsonResult OnPostCreate(CreateProductCategory command)
+        public JsonResult OnPostCreate(long? parentId, CreateProductCategory command)
         {
+            command.ParentId = parentId;
             var result = _productCategoryApplication.Create(command);
             return new JsonResult(result);
         }
@@ -53,6 +54,12 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategories
             }
 
             var result = _productCategoryApplication.Edit(command);
+            return new JsonResult(result);
+        }
+
+        public IActionResult OnGetGetProductSubcategories(long parentId)
+        {
+            var result = _productCategoryApplication.GetProductSubcategories(parentId);
             return new JsonResult(result);
         }
     }

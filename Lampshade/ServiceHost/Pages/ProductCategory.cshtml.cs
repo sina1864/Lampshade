@@ -6,6 +6,9 @@ namespace ServiceHost.Pages
     public class ProductCategoryModel : PageModel
     {
         public ProductCategoryQueryModel ProductCategory;
+        public int TotalPages;
+        public int CurrentPage;
+
         private readonly IProductCategoryQuery _productCategoryQuery;
 
         public ProductCategoryModel(IProductCategoryQuery productCategoryQuery)
@@ -13,9 +16,11 @@ namespace ServiceHost.Pages
             _productCategoryQuery = productCategoryQuery;
         }
 
-        public void OnGet(string id)
+        public void OnGet(string id, int pagenum)
         {
-            ProductCategory = _productCategoryQuery.GetProductCategoryWithProducstsBy(id);
+            ProductCategory = _productCategoryQuery.GetProductCategoryWithProducstsBy(id, pagenum);
+            TotalPages = _productCategoryQuery.GetTotalPages(id, pagenum);
+            CurrentPage = pagenum;
         }
     }
 }

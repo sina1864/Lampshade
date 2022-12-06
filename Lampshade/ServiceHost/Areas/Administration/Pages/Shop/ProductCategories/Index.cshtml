@@ -51,29 +51,49 @@
                                 <tr>
                                     <th>#</th>
                                     <th>عکس</th>
-                                    <th>نام</th>
-                                    <th>تاریخ تولید</th>
+                                    <th>گروه</th>
+                                    <th>زیرگروه</th>
                                     <th>عملیات</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                @foreach (var item in Model.ProductCategories)
-                                {
-                                    <tr>
-                                        <td>@item.Id</td>
-                                        <td>
-                                            <img src="~/ProductPictures/@item.Picture" style="width: 70px; height: 70px" />
-                                        </td>
-                                        <td>@item.Name</td>
-                                        <td>@item.CreationDate</td>
-                                        <td>
-                                            <a class="btn btn-warning pull-right m-rl-5" 
-                                               href="#showmodal=@Url.Page("./Index", "Edit", new { id = item.Id})">
-                                                <i class="fa fa-edit"></i> ویرایش
-                                            </a>
-                                        </td>
-                                    </tr>
-                                }
+                            @foreach (var item in Model.ProductCategories.Where(x => x.ParentId == null))
+                            {
+                                <tr>
+                                    <td>@item.Id</td>
+                                    <td>
+                                        <img src="~/ProductPictures/@item.Picture" style="width: 70px; height: 70px"/>
+                                    </td>
+                                    <td>@item.Name</td>
+                                    <td>
+                                        @if (Model.ProductCategories.Any(x => x.ParentId == item.Id))
+                                        {
+                                            <ul>
+                                                @foreach (var subCategory in Model.ProductCategories.Where(x => x.ParentId == item.Id))
+                                                {
+                                                    <li>
+                                                        @subCategory.Name
+                                                        <a class="btn btn-warning pull-right m-rl-5"
+                                                            href="#showmodal=@Url.Page("./Index", "Edit", new { id = @subCategory.Id })">
+                                                             <i class="fa fa-edit"></i> ویرایش
+                                                        </a>
+                                                    </li>
+                                                }
+                                            </ul>
+                                        }
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-warning pull-right m-rl-5"
+                                           href="#showmodal=@Url.Page("./Index", "Edit", new { id = item.Id })">
+                                            <i class="fa fa-edit"></i> ویرایش
+                                        </a>
+                                        <a class="btn btn-warning pull-right m-rl-5"
+                                           href="#showmodal=@Url.Page("./Index", "Create", new { parentId = item.Id })">
+                                            <i class="fa fa-credit-card"></i> افزودن زیرگروه
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
                             </tbody>
                         </table>
                     </div>

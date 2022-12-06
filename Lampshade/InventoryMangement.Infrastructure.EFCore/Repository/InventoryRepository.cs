@@ -40,7 +40,7 @@ namespace InventoryMangement.Infrastructure.EFCore.Repository
 
         public List<InventoryOperationViewModel> GetOperationLog(long inventoryId)
         {
-            var accounts = _accountContext.Accounts.Select(x => new {x.Id, x.Fullname}).ToList();
+            var accounts = _accountContext.Accounts.Select(x => new {x.Id, x.Email}).ToList();
             var inventory = _inventoryContext.Inventory.FirstOrDefault(x => x.Id == inventoryId);
             var operations = inventory.Operations.Select(x => new InventoryOperationViewModel
             {
@@ -56,7 +56,7 @@ namespace InventoryMangement.Infrastructure.EFCore.Repository
 
             foreach (var operation in operations)
             {
-                operation.Operator = accounts.FirstOrDefault(x => x.Id == operation.OperatorId)?.Fullname;
+                operation.Operator = accounts.FirstOrDefault(x => x.Id == operation.OperatorId)?.Email;
             }
 
             return operations;

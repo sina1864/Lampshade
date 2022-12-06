@@ -4,6 +4,23 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Migrations\20221203071940_Initial1.cs" />
+    <Compile Remove="Migrations\20221203071940_Initial1.Designer.cs" />
+    <Compile Remove="Migrations\20221203074121_Initial.cs" />
+    <Compile Remove="Migrations\20221203074121_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20221203074450_Initial.cs" />
+    <Compile Remove="Migrations\20221203074450_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20221203080232_Initial.cs" />
+    <Compile Remove="Migrations\20221203080232_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20221203080401_Initial.cs" />
+    <Compile Remove="Migrations\20221203080401_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20221203082336_Initial.cs" />
+    <Compile Remove="Migrations\20221203082336_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20221203082454_Initial.cs" />
+    <Compile Remove="Migrations\20221203082454_Initial.Designer.cs" />
+  </ItemGroup>
+
 	<ItemGroup>
 		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0-preview.6.20312.4" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.0-preview.6.20312.4" />

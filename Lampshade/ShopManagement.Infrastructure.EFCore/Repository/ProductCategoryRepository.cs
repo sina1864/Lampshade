@@ -41,6 +41,18 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
             }).ToList();
         }
 
+        public List<ProductCategoryViewModel> GetProductSubcategories(long parentId)
+        {
+            return _context.ProductCategories
+                .Where(x => x.ParentId == parentId)
+                .Select(x => new ProductCategoryViewModel
+                {
+                    Id = x.Id,
+                    ParentId = x.ParentId,
+                    Name = x.Name
+                }).ToList();
+        }
+
         public string GetSlugById(long id)
         {
             return _context.ProductCategories.Select(x => new { x.Id, x.Slug }).FirstOrDefault(x => x.Id == id).Slug;

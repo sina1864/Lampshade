@@ -26,5 +26,6 @@ namespace ShopManagement.Application.Contracts.ProductCategory
 
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string Slug { get; set; }
+        public long? ParentId { get; set; }
     }
 }

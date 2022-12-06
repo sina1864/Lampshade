@@ -3,7 +3,6 @@ using _0_Framework.Infrastructure;
 using AccountManagement.Application.Contracts.Account;
 using AccountManagement.Domain.AccountAgg;
 using Microsoft.EntityFrameworkCore;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -23,12 +22,17 @@ namespace AccountMangement.Infrastructure.EFCore.Repository
             return _context.Accounts.FirstOrDefault(x => x.Username == username);
         }
 
+        public Account GetUserAccountBy(string email)
+        {
+            return _context.Accounts.FirstOrDefault(x => x.Email == email);
+        }
+
         public EditAccount GetDetails(long id)
         {
             return _context.Accounts.Select(x => new EditAccount
             {
                 Id = x.Id,
-                Fullname = x.Fullname,
+                Email = x.Email,
                 Mobile = x.Mobile,
                 RoleId = x.RoleId,
                 Username = x.Username
@@ -40,7 +44,7 @@ namespace AccountMangement.Infrastructure.EFCore.Repository
             return _context.Accounts.Select(x => new AccountViewModel
             {
                 Id = x.Id,
-                Fullname = x.Fullname
+                Email = x.Email
             }).ToList();
         }
 
@@ -49,7 +53,7 @@ namespace AccountMangement.Infrastructure.EFCore.Repository
             var query = _context.Accounts.Include(x => x.Role).Select(x => new AccountViewModel
             {
                 Id = x.Id,
-                Fullname = x.Fullname,
+                Email = x.Email,
                 Mobile = x.Mobile,
                 ProfilePhoto = x.ProfilePhoto,
                 Role = x.Role.Name,
@@ -58,8 +62,8 @@ namespace AccountMangement.Infrastructure.EFCore.Repository
                 CreationDate = x.CreationDate.ToFarsi()
             });
 
-            if (!string.IsNullOrWhiteSpace(searchModel.Fullname))
-                query = query.Where(x => x.Fullname.Contains(searchModel.Fullname));
+            if (!string.IsNullOrWhiteSpace(searchModel.Email))
+                query = query.Where(x => x.Email.Contains(searchModel.Email));
 
             if (!string.IsNullOrWhiteSpace(searchModel.Username))
                 query = query.Where(x => x.Username.Contains(searchModel.Username));

@@ -23,3 +23,87 @@ C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\Sho
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.deps.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.dev.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CopyComplete
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\refint\ShopManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\ShopManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.deps.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.dev.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CopyComplete
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\refint\ShopManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\ShopManagement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\refint\ShopManagement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.deps.json
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.json
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.dev.json
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfo.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CopyComplete
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\ShopManagement.Infrastructure.EFCore.dll

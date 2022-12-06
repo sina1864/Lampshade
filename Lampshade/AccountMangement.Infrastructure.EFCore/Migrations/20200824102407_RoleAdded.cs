@@ -52,7 +52,7 @@ namespace AccountMangement.Infrastructure.EFCore.Migrations
                 oldNullable: true);
 
             migrationBuilder.AlterColumn<string>(
-                name: "Fullname",
+                name: "Email",
                 table: "Accounts",
                 type: "nvarchar(100)",
                 maxLength: 100,
@@ -144,7 +144,7 @@ namespace AccountMangement.Infrastructure.EFCore.Migrations
                 oldMaxLength: 20);
 
             migrationBuilder.AlterColumn<string>(
-                name: "Fullname",
+                name: "Email",
                 table: "Accounts",
                 type: "nvarchar(100)",
                 maxLength: 100,

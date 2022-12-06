@@ -38,6 +38,10 @@
     -> Blog
 
 /*=====  End of CSS Index  ======*/
+.error {
+    font-size: 10px;
+    color: #ff0000;
+}
 
 /*=============================================
 =            Theme default CSS            =
@@ -491,7 +495,7 @@ select {
 .navigation-menu-wrapper {
     -webkit-flex-basis: 60%;
     -ms-flex-preferred-size: 60%;
-    flex-basis: 60%; /* separate menu style */ /*----------  submenu  ----------*/
+    flex-basis: 100%; /* separate menu style */ /*----------  submenu  ----------*/
 }
 
     .navigation-menu-wrapper nav > ul > li {

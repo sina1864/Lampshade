@@ -16,3 +16,60 @@ C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\Sho
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CopyComplete
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.AssemblyReference.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfoInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.deps.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\0_Framework.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\0_Framework.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CopyComplete
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\refint\ShopManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.deps.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\0_Framework.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\0_Framework.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.AssemblyReference.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfoInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CopyComplete
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\refint\ShopManagement.Application.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\refint\ShopManagement.Application.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.deps.json
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\0_Framework.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\0_Framework.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.AssemblyReference.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfoInputs.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfo.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CoreCompileInputs.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CopyComplete
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll

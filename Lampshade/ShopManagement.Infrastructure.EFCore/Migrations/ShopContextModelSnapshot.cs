@@ -48,6 +48,9 @@ namespace ShopManagement.Infrastructure.EFCore.Migrations
                     b.Property<double>("PayAmount")
                         .HasColumnType("float");
 
+                    b.Property<int>("PaymentMethod")
+                        .HasColumnType("int");
+
                     b.Property<long>("RefId")
                         .HasColumnType("bigint");
 
@@ -152,6 +155,9 @@ namespace ShopManagement.Infrastructure.EFCore.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(255)")
                         .HasMaxLength(255);
+
+                    b.Property<int?>("ParentId")
+                        .HasColumnType("int");
 
                     b.Property<string>("Picture")
                         .HasColumnType("nvarchar(1000)")

@@ -1,4 +1,5 @@
-﻿@page "{id}"
+﻿@page "{id}/{pagenum}"
+@*@page "{id}"*@
 @model ServiceHost.Pages.ProductCategoryModel
 @{
     ViewData["Title"] = Model.ProductCategory.Name;
@@ -53,12 +54,11 @@
                                         </div>
 
                                         <div class="single-select-block d-inline-block">
-                                            <span class="select-title">Sort By:</span>
+                                            <span class="select-title">مرتب سازی:</span>
                                             <select class="pr-0">
-                                                <option value="1">Default</option>
-                                                <option value="2">Name (A-Z)</option>
-                                                <option value="3">Price (min - max)</option>
-                                                <option value="4">Color</option>
+                                                <option value="1">بر اساس</option>
+                                                <option value="2">کم ترین قیمت</option>
+                                                <option value="3">بیش ترین قیمت</option>
                                             </select>
                                         </div>
                                     </div>
@@ -122,22 +122,18 @@
                                         }
                                     </div>
                                 </div>
-
+                  
                                 <div class="pagination-area">
-                                    <div class="pagination-area__left">
-                                        Showing 1 to 9 of 11 (2 Pages)
-                                    </div>
-                                    <div class="pagination-area__right">
-                                        <ul class="pagination-section">
-                                            <li>
-                                                <a class="active" href="#">1</a>
+                                    <ul class="pagination-section">
+                                        @for (var i = 1; i <= Model.TotalPages; i++)
+                                        {
+                                            <li class="page-item @(i == Model.CurrentPage ? "active" : "")">
+                                                <a asp-page="/ProductCategory" asp-route-id="@Model.ProductCategory.Slug" asp-route-pagenum="@i" class="page-link">@i</a>
                                             </li>
-                                            <li>
-                                                <a href="#">2</a>
-                                            </li>
-                                        </ul>
-                                    </div>
+                                        }
+                                    </ul>
                                 </div>
+
                             </div>
                         </div>
                     </div>

@@ -29,7 +29,7 @@ namespace ShopManagement.Application
 
             var productCategory = new ProductCategory(command.Name, command.Description,
                 pictureName, command.PictureAlt, command.PictureTitle, command.Keywords,
-                command.MetaDescription, slug);
+                command.MetaDescription, slug, command.ParentId);
 
             _productCategoryRepostory.Create(productCategory);
             _productCategoryRepostory.SaveChanges();
@@ -68,6 +68,11 @@ namespace ShopManagement.Application
         public List<ProductCategoryViewModel> GetProductCategories()
         {
             return _productCategoryRepostory.GetProductCategories();
+        }
+
+        public List<ProductCategoryViewModel> GetProductSubcategories(long parentId)
+        {
+            return _productCategoryRepostory.GetProductSubcategories(parentId);
         }
 
         public List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel)

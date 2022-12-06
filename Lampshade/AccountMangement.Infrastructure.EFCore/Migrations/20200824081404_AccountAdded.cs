@@ -14,7 +14,7 @@ namespace AccountMangement.Infrastructure.EFCore.Migrations
                     Id = table.Column<long>(type: "bigint", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     CreationDate = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    Fullname = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: true),
+                    Email = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: true),
                     Username = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: true),
                     Password = table.Column<string>(type: "nvarchar(1000)", maxLength: 1000, nullable: true),
                     Mobile = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: true),

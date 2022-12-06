@@ -29,10 +29,16 @@ namespace AccountMangement.Infrastructure.EFCore.Migrations
                     b.Property<DateTime>("CreationDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Fullname")
+                    b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("nvarchar(100)")
                         .HasMaxLength(100);
+
+                    b.Property<int>("EmailConfirmCode")
+                        .HasColumnType("int");
+
+                    b.Property<bool>("IsEmailConfirmed")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Mobile")
                         .IsRequired()
@@ -48,6 +54,9 @@ namespace AccountMangement.Infrastructure.EFCore.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(500)")
                         .HasMaxLength(500);
+
+                    b.Property<string>("ResetPasswordToken")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<long>("RoleId")
                         .HasColumnType("bigint");

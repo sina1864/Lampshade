@@ -1,4 +1,5 @@
-﻿@model _01_LampshadeQuery.MenuModel
+﻿@using _0_Framework.Infrastructure
+@model _01_LampshadeQuery.MenuModel
 @inject _0_Framework.Application.IAuthHelper AuthHelper
 
 <div class="header-area header-sticky">
@@ -23,7 +24,8 @@
                                         @foreach (var category in Model.ProductCategories)
                                         {
                                             <li>
-                                                <a asp-page="./ProductCategory" asp-route-id="@category.Slug">@category.Name</a>
+                                                @*<a asp-page="./ProductCategory" asp-route-id="@category.Slug">@category.Name</a>*@
+                                                <a asp-page="./ProductCategory" asp-route-id="@category.Slug" asp-route-pagenum="1">@category.Name</a>
                                             </li>
                                         }
                                     </ul>
@@ -42,6 +44,7 @@
                                 <li>
                                     <a href="contact.html">تماس با ما</a>
                                 </li>
+
                                 @if (AuthHelper.IsAuthenticated())
                                 {
                                     <li>
@@ -51,8 +54,25 @@
                                 else
                                 {
                                     <li>
-                                        <a asp-page="/Account">وورد / ثبت نام</a>
+                                        <a asp-page="/Account">ورود / ثبت نام</a>
                                     </li>
+                                }
+
+                                @if (AuthHelper.IsAuthenticated())
+                                {
+                                    @if (AuthHelper.CurrentAccountRole() == Roles.SystemUser)
+                                    {
+                                        <li>
+                                            <a asp-page="/AccessDenied">داشبورد</a>
+                                        </li>
+                                    }
+                                    else
+                                    {
+                                        <li>
+                                            @*<a href="https://localhost:5001/administration">داشبورد</a>*@
+                                            <a asp-area="Administration" asp-page="Index">داشبورد</a>
+                                        </li>
+                                    }
                                 }
                             </ul>
                         </nav>
@@ -72,7 +92,6 @@
                                     </a>
                                     <div class="mini-cart" id="mini-cart">
                                         <div class="cart-items-wrapper ps-scroll" id="cart_items_wrapper">
-                                            
                                         </div>
                                         <div class="cart-buttons">
                                             <a asp-page="/Cart">مشاهده سبد خرید</a>
@@ -104,31 +123,31 @@
                                             </ul>
                                         </div>
                                         @*<div class="single-settings-block">
-                                                <h4 class="title">CURRENCY: USD </h4>
-                                                <ul>
-                                                    <li>
-                                                        <a href="javascript:void(0)">€ Euro</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="javascript:void(0)">$ US Dollar</a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="single-settings-block">
-                                                <h4 class="title">LANGUAGE: EN-GB </h4>
-                                                <ul>
-                                                    <li>
-                                                        <a href="javascript:void(0)">
-                                                            <img src="~/Theme/assets/img/icons/en-gb.png" alt=""> English
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="javascript:void(0)">
-                                                            <img src="~/Theme/assets/img/icons/de-de.png" alt=""> Germany
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </div>*@
+                                        <h4 class="title">CURRENCY: USD </h4>
+                                        <ul>
+                                        <li>
+                                        <a href="javascript:void(0)">€ Euro</a>
+                                        </li>
+                                        <li>
+                                        <a href="javascript:void(0)">$ US Dollar</a>
+                                        </li>
+                                        </ul>
+                                        </div>
+                                        <div class="single-settings-block">
+                                        <h4 class="title">LANGUAGE: EN-GB </h4>
+                                        <ul>
+                                        <li>
+                                        <a href="javascript:void(0)">
+                                        <img src="~/Theme/assets/img/icons/en-gb.png" alt=""> English
+                                        </a>
+                                        </li>
+                                        <li>
+                                        <a href="javascript:void(0)">
+                                        <img src="~/Theme/assets/img/icons/de-de.png" alt=""> Germany
+                                        </a>
+                                        </li>
+                                        </ul>
+                                        </div>*@
                                     </div>
                                 </div>
                             </li>

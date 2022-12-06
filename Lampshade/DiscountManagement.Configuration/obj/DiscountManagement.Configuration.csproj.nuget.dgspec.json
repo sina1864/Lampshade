@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj": {}
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj": {}
   },
   "projects": {
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj",
+        "projectUniqueName": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj",
         "projectName": "0_Framework",
-        "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj",
-        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\obj\\",
+        "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj",
+        "packagesPath": "C:\\Users\\Sina Radfar\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sina Radfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "MailKit": {
               "target": "Package",
@@ -65,6 +64,10 @@
               "target": "Package",
               "version": "[1.10.0, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
             "RestSharp": {
               "target": "Package",
               "version": "[106.11.4, )"
@@ -80,7 +83,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -89,24 +93,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj",
+        "projectUniqueName": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj",
         "projectName": "AccountManagement.Application.Contracts",
-        "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Application.Contracts\\obj\\",
+        "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Sina Radfar\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sina Radfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -118,9 +119,10 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
               }
             }
           }
@@ -133,13 +135,15 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -148,24 +152,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj",
+        "projectUniqueName": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj",
         "projectName": "AccountManagement.Domain",
-        "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Domain\\obj\\",
+        "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Sina Radfar\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sina Radfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -177,12 +178,13 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
               },
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -195,13 +197,15 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -210,24 +214,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj": {
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj",
         "projectName": "AccountMangement.Infrastructure.EFCore",
-        "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountMangement.Infrastructure.EFCore\\obj\\",
+        "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Sina Radfar\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountMangement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sina Radfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -239,9 +240,10 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountManagement.Domain\\AccountManagement.Domain.csproj"
               }
             }
           }
@@ -254,6 +256,7 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -276,7 +279,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -285,24 +289,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
+        "projectUniqueName": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
         "projectName": "DiscountManagement.Application.Contract",
-        "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
-        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\obj\\",
+        "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
+        "packagesPath": "C:\\Users\\Sina Radfar\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sina Radfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -314,12 +315,13 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
               },
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -332,13 +334,15 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -347,24 +351,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
+        "projectUniqueName": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
         "projectName": "DiscountManagement.Application",
-        "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
-        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\obj\\",
+        "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\Sina Radfar\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sina Radfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -376,12 +377,13 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj"
               },
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
               }
             }
           }
@@ -394,13 +396,15 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -409,24 +413,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj": {
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
+        "projectUniqueName": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
         "projectName": "DiscountManagement.Configuration",
-        "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
-        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\obj\\",
+        "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\DiscountManagement.Configuration.csproj",
+        "packagesPath": "C:\\Users\\Sina Radfar\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Configuration\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sina Radfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -438,15 +439,16 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj"
               },
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application\\DiscountManagement.Application.csproj"
               },
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -459,6 +461,7 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -473,7 +476,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -482,24 +486,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
+        "projectUniqueName": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
         "projectName": "DiscountManagement.Domain",
-        "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\obj\\",
+        "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Sina Radfar\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sina Radfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -511,12 +512,13 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
               },
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj"
               }
             }
           }
@@ -529,13 +531,15 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -544,24 +548,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
         "projectName": "DiscountManagement.Infrastructure.EFCore",
-        "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\obj\\",
+        "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Sina Radfar\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sina Radfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -573,12 +574,13 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\DiscountManagement.Domain\\DiscountManagement.Domain.csproj"
               },
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -591,6 +593,7 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -613,7 +616,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -622,24 +626,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "projectUniqueName": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
         "projectName": "ShopManagement.Application.Contracts",
-        "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\obj\\",
+        "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Sina Radfar\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sina Radfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -651,9 +652,10 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
               }
             }
           }
@@ -666,6 +668,7 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
@@ -678,7 +681,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -687,24 +691,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+        "projectUniqueName": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
         "projectName": "ShopManagement.Domain",
-        "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Domain\\obj\\",
+        "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Sina Radfar\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sina Radfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -716,12 +717,13 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
               },
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -734,13 +736,15 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -749,24 +753,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+    "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
         "projectName": "ShopManagement.Infrastructure.EFCore",
-        "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\Atria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\obj\\",
+        "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Sina Radfar\\.nuget\\packages\\",
+        "outputPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sina Radfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -778,12 +779,13 @@
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj"
               },
-              "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-                "projectPath": "C:\\Hossein\\Packages\\.NetCoreMvcApi\\examples\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+              "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+                "projectPath": "E:\\Programming\\Courses\\Atriya - ASP.NET Core\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
               }
             }
           }
@@ -796,6 +798,7 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -818,7 +821,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -827,7 +831,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

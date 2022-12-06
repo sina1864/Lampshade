@@ -21,6 +21,7 @@ using _0_Framework.Application.Sms;
 using _0_Framework.Application.ZarinPal;
 using InventoryManagement.Presentation.Api;
 using ShopManagement.Presentation.Api;
+using AspNetCore.ReCaptcha;
 
 namespace ServiceHost
 {
@@ -91,6 +92,7 @@ namespace ServiceHost
                 .AddMvcOptions(options => options.Filters.Add<SecurityPageFilter>())
                 .AddRazorPagesOptions(options =>
                 {
+                    //options.Conventions.AddPageRoute("/ProductCategory", "{id}/{pagenum}");
                     options.Conventions.AuthorizeAreaFolder("Administration", "/", "AdminArea");
                     options.Conventions.AuthorizeAreaFolder("Administration", "/Shop", "Shop");
                     options.Conventions.AuthorizeAreaFolder("Administration", "/Discounts", "Discount");
@@ -99,6 +101,8 @@ namespace ServiceHost
                 .AddApplicationPart(typeof(ProductController).Assembly)
                 .AddApplicationPart(typeof(InventoryController).Assembly)
                 .AddNewtonsoftJson();
+
+            services.AddReCaptcha(Configuration.GetSection("ReCaptcha"));
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -109,7 +113,8 @@ namespace ServiceHost
             }
             else
             {
-                app.UseExceptionHandler("/Error");
+                app.UseDeveloperExceptionPage();
+                //app.UseExceptionHandler("/Error");
                 app.UseHsts();
             }
 

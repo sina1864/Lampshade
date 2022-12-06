@@ -16,7 +16,7 @@ namespace ShopManagement.Infrastructure.AccountAcl
         public (string name, string mobile) GetAccountBy(long id)
         {
             var account = _accountApplication.GetAccountBy(id);
-            return (account.Fullname, account.Mobile);
+            return (account.Email, account.Mobile);
         }
     }
 }

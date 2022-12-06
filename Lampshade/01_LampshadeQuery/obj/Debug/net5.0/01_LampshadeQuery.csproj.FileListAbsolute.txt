@@ -46,3 +46,156 @@ C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\01_
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.CopyComplete
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.dll
 C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.AssemblyReference.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.AssemblyInfoInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.AssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.deps.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\0_Framework.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\0_Framework.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.CopyComplete
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\refint\01_LampshadeQuery.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\ref\01_LampshadeQuery.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.deps.json
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\0_Framework.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Domain.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\0_Framework.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Domain.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.AssemblyReference.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.AssemblyInfoInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.AssemblyInfo.cs
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.CoreCompileInputs.cache
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.CopyComplete
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\refint\01_LampshadeQuery.dll
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.pdb
+D:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\New folder\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\ref\01_LampshadeQuery.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\refint\01_LampshadeQuery.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.deps.json
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\01_LampshadeQuery.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\0_Framework.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Domain.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\0_Framework.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\BlogManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\ShopManagement.Domain.pdb
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.AssemblyReference.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.AssemblyInfoInputs.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.AssemblyInfo.cs
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.CoreCompileInputs.cache
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.CopyComplete
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\ref\01_LampshadeQuery.dll

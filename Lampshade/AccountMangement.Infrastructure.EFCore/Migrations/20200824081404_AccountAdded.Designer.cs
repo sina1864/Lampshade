@@ -31,7 +31,7 @@ namespace AccountMangement.Infrastructure.EFCore.Migrations
                     b.Property<DateTime>("CreationDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Fullname")
+                    b.Property<string>("Email")
                         .HasColumnType("nvarchar(100)")
                         .HasMaxLength(100);
 

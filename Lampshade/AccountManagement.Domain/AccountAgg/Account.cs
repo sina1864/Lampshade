@@ -5,18 +5,21 @@ namespace AccountManagement.Domain.AccountAgg
 {
     public class Account : EntityBase
     {
-        public string Fullname { get; private set; }
+        public string Email { get; private set; }
         public string Username { get; private set; }
         public string Password { get; private set; }
         public string Mobile { get; private set; }
         public long RoleId { get; private set; }
         public Role Role { get; private set; }
         public string ProfilePhoto { get; private set; }
+        public string ResetPasswordToken { get; private set; }
+        public int EmailConfirmCode { get; private set; }
+        public bool IsEmailConfirmed { get; private set; }
 
-        public Account(string fullname, string username, string password, string mobile,
-            long roleId, string profilePhoto)
+        public Account(string email, string username, string password, string mobile,
+            long roleId, string profilePhoto, int emailConfirmCode)
         {
-            Fullname = fullname;
+            Email = email;
             Username = username;
             Password = password;
             Mobile = mobile;
@@ -26,12 +29,14 @@ namespace AccountManagement.Domain.AccountAgg
                 RoleId = 2;
             
             ProfilePhoto = profilePhoto;
+            ResetPasswordToken = null;
+            EmailConfirmCode = emailConfirmCode;
         }
 
-        public void Edit(string fullname, string username, string mobile,
+        public void Edit(string email, string username, string mobile,
             long roleId, string profilePhoto)
         {
-            Fullname = fullname;
+            Email = email;
             Username = username;
             Mobile = mobile;
             RoleId = roleId;
@@ -43,6 +48,22 @@ namespace AccountManagement.Domain.AccountAgg
         public void ChangePassword(string password)
         {
             Password = password;
+        }
+
+        public void SetToken(string resetPasswordToken)
+        {
+            ResetPasswordToken = resetPasswordToken;
+        }
+
+        public void RemoveToken()
+        {
+            ResetPasswordToken = null;
+        }
+
+        public void EmailConfirmed()
+        {
+            IsEmailConfirmed = true;
+            EmailConfirmCode = 0;
         }
     }
 }

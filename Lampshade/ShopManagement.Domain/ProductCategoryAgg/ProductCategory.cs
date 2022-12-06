@@ -14,6 +14,7 @@ namespace ShopManagement.Domain.ProductCategoryAgg
         public string Keywords { get; private set; }
         public string MetaDescription { get; private set; }
         public string Slug { get; private set; }
+        public long? ParentId { get; set; }
         public List<Product> Products { get; private set; }
 
         public ProductCategory()
@@ -23,7 +24,7 @@ namespace ShopManagement.Domain.ProductCategoryAgg
 
         public ProductCategory(string name, string description, string picture,
             string pictureAlt, string pictureTitle, string keywords, string metaDescription,
-            string slug)
+            string slug, long? parentId)
         {
             Name = name;
             Description = description;
@@ -33,6 +34,7 @@ namespace ShopManagement.Domain.ProductCategoryAgg
             Keywords = keywords;
             MetaDescription = metaDescription;
             Slug = slug;
+            ParentId = parentId;
         }
 
         public void Edit(string name, string description, string picture,

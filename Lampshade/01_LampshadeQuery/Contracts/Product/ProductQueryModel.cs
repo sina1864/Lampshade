@@ -1,4 +1,5 @@
 ﻿using _01_LampshadeQuery.Contracts.Comment;
+using System;
 using System.Collections.Generic;
 
 namespace _01_LampshadeQuery.Contracts.Product
@@ -25,6 +26,7 @@ namespace _01_LampshadeQuery.Contracts.Product
         public string Keywords { get; set; }
         public string MetaDescription { get; set; }
         public bool IsInStock { get; set; }
+        public DateTime CreationDate { get; set; }
         public List<CommentQueryModel> Comments { get; set; }
         public List<ProductPictureQueryModel> Pictures { get; set; }
     }

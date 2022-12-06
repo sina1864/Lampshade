@@ -5,7 +5,6 @@ using ShopManagement.Application.Contracts.Product;
 using ShopManagement.Domain.ProductAgg;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
 
 namespace ShopManagement.Infrastructure.EFCore.Repository
 {
@@ -52,7 +51,8 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
 
         public List<ProductViewModel> Search(ProductSearchModel searchModel)
         {
-            var query = _context.Products.Include(x => x.Category)
+            var query = _context.Products
+                .Include(x => x.Category)
                 .Select(x => new ProductViewModel
                 {
                     Id = x.Id,

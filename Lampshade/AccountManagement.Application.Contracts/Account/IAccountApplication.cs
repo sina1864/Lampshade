@@ -14,5 +14,8 @@ namespace AccountManagement.Application.Contracts.Account
         List<AccountViewModel> Search(AccountSearchModel searchModel);
         void Logout();
         List<AccountViewModel> GetAccounts();
+        OperationResult ForgotPassword(ForgotPassword command);
+        OperationResult ResetPassword(ResetPasswordViewModel command);
+        OperationResult EmailConfirmation(RegisterAccount command);
     }
 }
