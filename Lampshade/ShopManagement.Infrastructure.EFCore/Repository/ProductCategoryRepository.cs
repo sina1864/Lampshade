@@ -65,7 +65,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 Id = x.Id,
                 Picture = x.Picture,
                 Name = x.Name,
-                CreationDate = x.CreationDate.ToFarsi()
+                ParentId = x.ParentId
             });
 
             if (!string.IsNullOrWhiteSpace(searchModel.Name))
