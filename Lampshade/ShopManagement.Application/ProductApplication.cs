@@ -32,7 +32,7 @@ namespace ShopManagement.Application
             var picturePath = _fileUploader.Upload(command.Picture, path);
             var product = new Product(command.Name, command.Code,
                 command.ShortDescription, command.Description, picturePath,
-                command.PictureAlt, command.PictureTitle, command.CategoryId, slug,
+                command.PictureAlt, command.PictureTitle, command.CategoryId, command.SubcategoryId, slug,
                 command.Keywords, command.MetaDescription);
             _productRepository.Create(product);
             _productRepository.SaveChanges();
@@ -55,7 +55,7 @@ namespace ShopManagement.Application
             var picturePath = _fileUploader.Upload(command.Picture, path);
             product.Edit(command.Name, command.Code,
                 command.ShortDescription, command.Description, picturePath,
-                command.PictureAlt, command.PictureTitle, command.CategoryId, slug,
+                command.PictureAlt, command.PictureTitle, command.CategoryId, command.SubcategoryId, slug,
                 command.Keywords, command.MetaDescription);
 
             _productRepository.SaveChanges();

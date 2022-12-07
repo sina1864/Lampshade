@@ -15,6 +15,7 @@ namespace ShopManagement.Domain.ProductAgg
         public string PictureAlt { get; private set; }
         public string PictureTitle { get; private set; }
         public long CategoryId { get; private set; }
+        public long? SubcategoryId { get; private set; }
         public string Slug { get; private set; }
         public string Keywords { get; private set; }
         public string MetaDescription { get; private set; }
@@ -22,7 +23,7 @@ namespace ShopManagement.Domain.ProductAgg
         public List<ProductPicture> ProductPictures { get; private set; }
 
         public Product(string name, string code, string shortDescription, string description,
-            string picture, string pictureAlt, string pictureTitle, long categoryId, string slug,
+            string picture, string pictureAlt, string pictureTitle, long categoryId, long? subcategoryId, string slug,
             string keywords, string metaDescription)
         {
             Name = name;
@@ -33,13 +34,14 @@ namespace ShopManagement.Domain.ProductAgg
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
             CategoryId = categoryId;
+            SubcategoryId = subcategoryId;
             Slug = slug;
             Keywords = keywords;
             MetaDescription = metaDescription;
         }
 
         public void Edit(string name, string code, string shortDescription, string description, string picture,
-            string pictureAlt, string pictureTitle, long categoryId, string slug,
+            string pictureAlt, string pictureTitle, long categoryId, long? subcategoryId, string slug,
             string keywords, string metaDescription)
         {
             Name = name;
@@ -53,6 +55,7 @@ namespace ShopManagement.Domain.ProductAgg
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
             CategoryId = categoryId;
+            SubcategoryId = subcategoryId;
             Slug = slug;
             Keywords = keywords;
             MetaDescription = metaDescription;

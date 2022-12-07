@@ -26,6 +26,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 Code = x.Code,
                 Slug = x.Slug,
                 CategoryId = x.CategoryId,
+                SubcategoryId = x.SubcategoryId,
                 Description = x.Description,
                 Keywords = x.Keywords,
                 MetaDescription = x.MetaDescription,
@@ -59,6 +60,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                     Name = x.Name,
                     Category = x.Category.Name,
                     CategoryId = x.CategoryId,
+                    SubcategoryId = x.SubcategoryId,
                     Code = x.Code,
                     Picture = x.Picture,
                     CreationDate = x.CreationDate.ToFarsi()

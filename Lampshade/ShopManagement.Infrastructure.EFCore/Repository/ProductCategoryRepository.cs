@@ -37,6 +37,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
             return _context.ProductCategories.Select(x => new ProductCategoryViewModel
             {
                 Id = x.Id,
+                ParentId = x.ParentId,
                 Name = x.Name
             }).ToList();
         }
@@ -65,7 +66,8 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 Id = x.Id,
                 Picture = x.Picture,
                 Name = x.Name,
-                ParentId = x.ParentId
+                ParentId = x.ParentId,
+                CreationDate = x.CreationDate.ToFarsi()
             });
 
             if (!string.IsNullOrWhiteSpace(searchModel.Name))

@@ -8,6 +8,7 @@
         public string Code { get; set; }
         public string Category { get; set; }
         public long CategoryId { get; set; }
+        public long? SubcategoryId { get; set; }
         public string CreationDate { get; set; }
     }
 }

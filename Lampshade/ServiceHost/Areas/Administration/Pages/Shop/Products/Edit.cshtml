@@ -45,6 +45,18 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="form-group">
+                    <label asp-for="SubcategoryId" class="control-label">زیرگروه محصول</label>
+                    <select class="form-control" asp-for="SubcategoryId"
+                            asp-items='new SelectList(Model.Subcategories, "Id", "Name")'>
+                        <option value="0">گروه محصول</option>
+                    </select>
+                    <span asp-validation-for="SubcategoryId" class="error"></span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="form-group">
                     <label asp-for="Picture" class="control-label">عکس</label>
                     <input type="file" class="form-control" asp-for="Picture" accept="image/*">
                     <span asp-validation-for="Picture" class="error"></span>

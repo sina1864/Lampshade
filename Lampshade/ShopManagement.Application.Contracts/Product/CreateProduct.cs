@@ -24,6 +24,7 @@ namespace ShopManagement.Application.Contracts.Product
 
         [Range(1, 100000, ErrorMessage = ValidationMessages.IsRequired)]
         public long CategoryId { get; set; }
+        public long? SubcategoryId { get; set; }
 
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string Slug { get; set; }
@@ -34,5 +35,6 @@ namespace ShopManagement.Application.Contracts.Product
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string MetaDescription { get; set; }
         public List<ProductCategoryViewModel> Categories { get; set; }
+        public List<ProductCategoryViewModel> Subcategories { get; set; }
     }
 }
