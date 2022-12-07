@@ -35,6 +35,7 @@ namespace _01_LampshadeQuery.Query
             return _context.ProductCategories.Select(x => new ProductCategoryQueryModel
             {
                 Id = x.Id,
+                ParentId = x.ParentId,
                 Name = x.Name,
                 Picture = x.Picture,
                 PictureAlt = x.PictureAlt,
@@ -57,6 +58,7 @@ namespace _01_LampshadeQuery.Query
                 .Select(x => new ProductCategoryQueryModel
                 {
                     Id = x.Id,
+                    ParentId = x.ParentId,
                     Name = x.Name,
                     Products = x.Products.Select(product => new ProductQueryModel
                     {
@@ -112,6 +114,24 @@ namespace _01_LampshadeQuery.Query
             }).OrderByDescending(x => x.Id).Skip(skip).Take(take).ToList();
         }
 
+        private static List<ProductQueryModel> MapSubProducts(List<Product> products)
+        {
+            var skip = (PageNum - 1) * Size;
+            var take = Size;
+
+            return products.Select(product => new ProductQueryModel
+            {
+                Id = product.Id,
+                SubcategoryId = product.SubcategoryId,
+                Category = product.Category.Name,
+                Name = product.Name,
+                Picture = product.Picture,
+                PictureAlt = product.PictureAlt,
+                PictureTitle = product.PictureTitle,
+                Slug = product.Slug
+            }).OrderByDescending(x => x.Id).Skip(skip).Take(take).ToList();
+        }
+
         public ProductCategoryQueryModel GetProductCategoryWithProducstsBy(string id, int pagenum)
         {
             Id = id;
@@ -129,12 +149,62 @@ namespace _01_LampshadeQuery.Query
                 .Select(x => new ProductCategoryQueryModel
                 {
                     Id = x.Id,
+                    ParentId = x.ParentId,
                     Name = x.Name,
                     Description = x.Description,
                     MetaDescription = x.MetaDescription,
                     Keywords = x.Keywords,
                     Slug = x.Slug,
                     Products = MapProducts(x.Products)
+                }).AsNoTracking().FirstOrDefault(x => x.Slug == Id);
+
+            foreach (var product in catetory.Products)
+            {
+                var productInventory = inventory.FirstOrDefault(x => x.ProductId == product.Id);
+                if (productInventory != null)
+                {
+                    var price = productInventory.UnitPrice;
+                    product.Price = price.ToMoney();
+                    var discount = discounts.FirstOrDefault(x => x.ProductId == product.Id);
+                    if (discount != null)
+                    {
+                        int discountRate = discount.DiscountRate;
+                        product.DiscountRate = discountRate;
+                        product.DiscountExpireDate = discount.EndDate.ToDiscountFormat();
+                        product.HasDiscount = discountRate > 0;
+                        var discountAmount = Math.Round((price * discountRate) / 100);
+                        product.PriceWithDiscount = (price - discountAmount).ToMoney();
+                    }
+                }
+            }
+
+            return catetory;
+        }
+
+        public ProductCategoryQueryModel GetProductSubcategoryWithProducstsBy(string id, int pagenum)
+        {
+            Id = id;
+            PageNum = pagenum;
+
+            var inventory = _inventoryContext.Inventory.Select(x =>
+                new { x.ProductId, x.UnitPrice }).ToList();
+            var discounts = _discountContext.CustomerDiscounts
+                .Where(x => x.StartDate < DateTime.Now && x.EndDate > DateTime.Now)
+                .Select(x => new { x.DiscountRate, x.ProductId, x.EndDate }).ToList();
+
+            var catetory = _context.ProductCategories
+                .Include(a => a.Subproducts)
+                .ThenInclude(x => x.Category)
+                .Select(x => new ProductCategoryQueryModel
+                {
+                    Id = x.Id,
+                    ParentId = x.ParentId,
+                    Name = x.Name,
+                    Description = x.Description,
+                    MetaDescription = x.MetaDescription,
+                    Keywords = x.Keywords,
+                    Slug = x.Slug,
+                    Products = MapSubProducts(x.Subproducts)
                 }).AsNoTracking().FirstOrDefault(x => x.Slug == Id);
 
             foreach (var product in catetory.Products)
@@ -174,6 +244,7 @@ namespace _01_LampshadeQuery.Query
                 .Select(x => new ProductCategoryQueryModel
                 {
                     Id = x.Id,
+                    ParentId = x.ParentId,
                     Name = x.Name,
                     Description = x.Description,
                     MetaDescription = x.MetaDescription,

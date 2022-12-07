@@ -20,14 +20,27 @@
                                 </li>
                                 <li class="menu-item-has-children">
                                     <a>محصولات</a>
-                                    <ul class="sub-menu">
+                  @*                  <ul class="sub-menu">
                                         @foreach (var category in Model.ProductCategories)
                                         {
                                             <li>
-                                                @*<a asp-page="./ProductCategory" asp-route-id="@category.Slug">@category.Name</a>*@
                                                 <a asp-page="./ProductCategory" asp-route-id="@category.Slug" asp-route-pagenum="1">@category.Name</a>
                                             </li>
                                         }
+                                    </ul>*@
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a asp-page="./ProductCategory" asp-route-id="کالای-دیجیتال" asp-route-pagenum="1">کالای دیجیتال</a>
+                                        </li>
+                                        <li>
+                                            <a asp-page="./ProductCategory" asp-route-id="لوازم-خانگی" asp-route-pagenum="1">لوازم خانگی</a>
+                                        </li>
+                                        <li>
+                                            <a asp-page="./ProductCategory" asp-route-id="مد-و-پوشاک" asp-route-pagenum="1">مد و پوشاک</a>
+                                        </li>
+                                        <li class="dropdown-item">
+                                            <a asp-page="./ProductSubcategory" asp-route-id="لباس" asp-route-pagenum="1">لباس</a>
+                                        </li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
@@ -64,12 +77,12 @@
                                     {
                                         <li>
                                             <a asp-page="/AccessDenied">داشبورد</a>
+                                            @*<a asp-area="User" asp-page="Index">داشبورد</a>*@
                                         </li>
                                     }
                                     else
                                     {
                                         <li>
-                                            @*<a href="https://localhost:5001/administration">داشبورد</a>*@
                                             <a asp-area="Administration" asp-page="Index">داشبورد</a>
                                         </li>
                                     }

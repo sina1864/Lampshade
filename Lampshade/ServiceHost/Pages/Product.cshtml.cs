@@ -1,14 +1,17 @@
 using _01_LampshadeQuery.Contracts.Product;
+using _01_LampshadeQuery.Contracts.ProductCategory;
 using CommentManagement.Application.Contracts.Comment;
 using CommnetManagement.Infrastructure.EFCore;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using ShopManagement.Domain.ProductCategoryAgg;
 
 namespace ServiceHost.Pages
 {
     public class ProductModel : PageModel
     {
         public ProductQueryModel Product;
+
         private readonly IProductQuery _productQuery;
         private readonly ICommentApplication _commentApplication;
 

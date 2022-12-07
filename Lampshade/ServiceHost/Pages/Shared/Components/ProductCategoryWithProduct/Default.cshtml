@@ -17,7 +17,7 @@
                 <div class="tab-slider-wrapper">
                     <div class="tab-product-navigation">
                         <div class="nav nav-tabs justify-content-center" id="nav-tab2" role="tablist">
-                            @foreach (var category in Model)
+                            @foreach (var category in Model.Where(x => x.ParentId == null))
                             {
                                 <a class="nav-item nav-link @(Model.First() == category ? "active" : "")" id="product-tab-@category.Id" data-toggle="tab"
                                    href="#product-series-@category.Id" role="tab" aria-selected="true">@category.Name</a>
@@ -25,7 +25,7 @@
                         </div>
                     </div>
                     <div class="tab-content">
-                        @foreach (var category in Model)
+                        @foreach (var category in Model.Where(x => x.ParentId == null))
                         {
                             <div class="tab-pane fade show @(Model.First() == category ? "active" : "")" id="product-series-@category.Id" role="tabpanel"
                                  aria-labelledby="product-tab-1">

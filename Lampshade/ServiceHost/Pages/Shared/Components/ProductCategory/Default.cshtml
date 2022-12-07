@@ -7,18 +7,18 @@
                 <div class="category-wrapper">
                     <div class="row row-10">
 
-                        @foreach (var item in Model)
+                        @foreach (var item in Model.Where(x => x.ParentId == null))
                         {
                             <div class="col-lg-4 col-sm-6 grid-item">
                                 <div class="single-category-item">
                                     <div class="single-category-item__image">
-                                        <a asp-page="/ProductCategory" asp-route-id="@item.Slug">
-                                            <img src="~/ProductPictures/@item.Picture" class="img-fluid" alt="@item.PictureAlt" title="@item.PictureTitle" />
+                                        <a asp-page="/ProductCategory" asp-route-id="@item.Slug" asp-route-pagenum="1">
+                                            <img src="~/ProductPictures/@item.Picture" class="img-fluid" alt="@item.PictureAlt" title="@item.PictureTitle"/>
                                         </a>
                                     </div>
                                     <div class="single-category-item__content">
                                         <h3 class="title">@item.Name</h3>
-                                        <a asp-page="/ProductCategory" asp-route-id="@item.Slug">
+                                        <a asp-page="./ProductCategory" asp-route-id="@item.Slug" asp-route-pagenum="1">
                                             <i class="ion-android-arrow-dropleft-circle"></i> خرید
                                         </a>
                                     </div>

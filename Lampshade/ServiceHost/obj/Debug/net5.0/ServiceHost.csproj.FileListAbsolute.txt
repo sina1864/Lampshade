@@ -1168,3 +1168,4 @@ E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\Se
 E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.CopyComplete
 E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.genruntimeconfig.cache
 E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ref\ServiceHost.dll
+E:\Programming\Courses\Atriya - ASP.NET Core\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ProductSubcategory.cshtml.g.cs

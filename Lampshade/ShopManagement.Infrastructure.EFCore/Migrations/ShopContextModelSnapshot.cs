@@ -127,6 +127,8 @@ namespace ShopManagement.Infrastructure.EFCore.Migrations
 
                     b.HasIndex("CategoryId");
 
+                    b.HasIndex("SubcategoryId");
+
                     b.ToTable("Products");
                 });
 
@@ -321,6 +323,10 @@ namespace ShopManagement.Infrastructure.EFCore.Migrations
                         .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.HasOne("ShopManagement.Domain.ProductCategoryAgg.ProductCategory", "Subcategory")
+                        .WithMany("Subproducts")
+                        .HasForeignKey("SubcategoryId");
                 });
 
             modelBuilder.Entity("ShopManagement.Domain.ProductPictureAgg.ProductPicture", b =>

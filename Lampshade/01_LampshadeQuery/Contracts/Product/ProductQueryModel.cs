@@ -7,6 +7,7 @@ namespace _01_LampshadeQuery.Contracts.Product
     public class ProductQueryModel
     {
         public long Id { get; set; }
+        public long? SubcategoryId { get; set; }
         public string Picture { get; set; }
         public string PictureAlt { get; set; }
         public string PictureTitle { get; set; }

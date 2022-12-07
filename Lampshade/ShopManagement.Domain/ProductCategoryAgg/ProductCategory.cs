@@ -16,6 +16,7 @@ namespace ShopManagement.Domain.ProductCategoryAgg
         public string Slug { get; private set; }
         public long? ParentId { get; set; }
         public List<Product> Products { get; private set; }
+        public List<Product> Subproducts { get; private set; }
 
         public ProductCategory()
         {
