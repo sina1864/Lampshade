@@ -1,23 +1,35 @@
-using System;
+﻿using _01_LampshadeQuery.Contracts.Account;
 using AccountManagement.Application.Contracts.Account;
 using AspNetCore.ReCaptcha;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.ComponentModel.DataAnnotations;
 
 namespace ServiceHost.Pages
 {
     [ValidateReCaptcha]
     public class AccountModel : PageModel
     {
-        public Login Login;
-        public RegisterAccount Register;
+        //public AccountQueryModel AccountQueryModel;
+
+        [Required(ErrorMessage = "نام کاربری را وارد کنید")]
+        public string Username { get; set; }
+
+        [Required(ErrorMessage = "رمز عبور را وارد کنید")]
+        [MinLength(6, ErrorMessage = "رمز عبور باید بیشتر از 5 کاراکتر باشد")]
+        public string Password { get; set; }
+
+        [Required(ErrorMessage = "ایمیل را وارد کنید")]
+        public string Email { get; set; }
+
+        [Required(ErrorMessage = "موبایل را وارد کنید")]
+        public string Mobile { get; set; }
 
         [TempData]
         public string LoginMessage { get; set; }
 
         [TempData]
         public string RegisterMessage { get; set; }
-
 
         private readonly IAccountApplication _accountApplication;
 

@@ -40,14 +40,14 @@
                                         <h4 class="login-title">ورود</h4>
                                         <div class="row">
                                             <div class="col-md-12 col-12">
-                                                <label>نام کاربری</label>
-                                                <input type="text" name="username" placeholder="نام کاربری">
-                                                <span asp-validation-for="Login.Username" class="error"></span>
+                                                <label asp-for="Username">نام کاربری</label>
+                                                <input type="text" asp-for="Username" placeholder="نام کاربری">
+                                                <span asp-validation-for="Username" class="error"></span>
                                             </div>
                                             <div class="col-md-12 col-12">
-                                                <label>رمز عبور</label>
-                                                <input type="password" name="password" placeholder="رمز عبور">
-                                                <span asp-validation-for="Login.Password" class="error"></span>
+                                                <label asp-for="Password">رمز عبور</label>
+                                                <input type="password" asp-for="Password" placeholder="رمز عبور">
+                                                <span asp-validation-for="Password" class="error"></span>
                                             </div>
                                             <div class="col-sm-6 text-left text-sm-right">
                                                 <a asp-page="ForgotPassword" class="forget-pass-link">رمز عبور را فراموش کرده اید؟</a>
@@ -73,39 +73,31 @@
                                         <h4 class="login-title">ثبت نام</h4>
                                         <div class="row">
                                             <div class="col-md-6 col-12 mb-20">
-                                                @*<label asp-for="Register.Email">ایمیل</label>*@
-                                                <label>ایمیل</label>
-                                                @*<input type="text" asp-for="Register.Email" placeholder="ایمیل">*@
-                                                <input type="text" name="email" placeholder="ایمیل">
-                                                <span asp-validation-for="Register.Email" class="error"></span>
+                                                <label asp-for="Username">نام کاربری</label>
+                                                <input type="text" asp-for="Username" placeholder="نام کاربری">
+                                                <span asp-validation-for="Username" class="error"></span>
                                             </div>
                                             <div class="col-md-6 col-12 mb-20">
-                                                @*<label asp-for="Register.Username">نام کاربری</label>*@
-                                                <label>نام کاربری</label>
-                                                @*<input type="text" asp-for="Register.Username" placeholder="نام کاربری">*@
-                                                <input type="text" name="username" placeholder="نام کاربری">
-                                                <span asp-validation-for="Register.Username" class="error"></span>
+                                                <label asp-for="Email">ایمیل</label>
+                                                <input type="text" asp-for="Email" placeholder="ایمیل">
+                                                <span asp-validation-for="Email" class="error"></span>
                                             </div>
                                             <div class="col-md-12 mb-20">
-                                                @*<label asp-for="Register.Mobile">موبایل</label>*@
-                                                <label>موبایل</label>
-                                                @*<input type="number" asp-for="Register.Mobile" placeholder="موبایل">*@
-                                                <input type="number" name="mobile" placeholder="موبایل">
-                                                <span asp-validation-for="Register.Mobile" class="error"></span>
+                                                <label asp-for="Mobile">موبایل</label>
+                                                <input type="number" asp-for="Mobile" placeholder="موبایل">
+                                                <span asp-validation-for="Mobile" class="error"></span>
                                             </div>
                                             <div class="col-md-6 mb-20">
-                                                @*<label asp-for="Register.Password">رمز عبور</label>*@
-                                                <label>رمز عبور</label>
-                                                @*<input type="password" asp-for="Register.Password" placeholder="رمز عبور">*@
-                                                <input type="password" name="password" placeholder="رمز عبور">
-                                                <span asp-validation-for="Register.Password" class="error"></span>
+                                                <label asp-for="Password">رمز عبور</label>
+                                                <input type="password" asp-for="Password" placeholder="رمز عبور">
+                                                <span asp-validation-for="Password" class="error"></span>
                                             </div>
                                             <div class="col-md-6 mb-20">
                                                 <label>تأیید رمز عبور</label>
                                                 <input type="password" name="rePassword" placeholder="تأیید رمز عبور">
                                             </div>
                                             <div class="col-md-6 mb-20">
-                                                <recaptcha />
+                                                <recaptcha/>
                                             </div>
                                             <div class="col-12">
                                                 <button class="register-button mt-0">ثبت نام</button>

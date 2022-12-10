@@ -1,5 +1,6 @@
-﻿@model List<_01_LampshadeQuery.Contracts.Product.ProductQueryModel>
-
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<_01_LampshadeQuery.Contracts.Product.ProductQueryModel>
+@inject _0_Framework.Application.IAuthHelper AuthHelper
 
 <div class="single-row-slider-area section-space">
     <div class="container">
@@ -50,6 +51,18 @@
                                         <a asp-page="/Product" asp-route-id="@product.Slug">
                                             <img src="~/ProductPictures/@product.Picture" class="img-fluid" alt="@product.PictureAlt" title="@product.PictureTitle">
                                         </a>
+                                        <div class="hover-icons">
+                                            <a onclick="addToCart('@product.Id', '@product.Name', '@product.DoublePrice', '@product.Picture')"><i class="ion-bag"></i></a>
+                                            @if (AuthHelper.IsAuthenticated())
+                                            {
+                                                <a asp-page="/Wishlist"><i class="ion-heart"></i></a>
+                                            } else
+                                            {
+                                                <a asp-page="/Account"><i class="ion-heart"></i></a>
+                                            }
+                                            <a href="javascript:void(0)"><i class="ion-android-options"></i></a>
+                                            <a asp-page="/Product" asp-route-id="@product.Slug"><i class="ion-android-open"></i></a>
+                                        </div>
                                     </div>
                                     <div class="single-grid-product__content">
                                         <div class="single-grid-product__category-rating">

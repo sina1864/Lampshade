@@ -2282,7 +2282,7 @@ select {
         visibility: hidden;
         width: 200px;
         max-width: 100%;
-        padding: 15px 0;
+        padding: 5px 0;
         -webkit-transition: .3s;
         transition: .3s;
         -webkit-transform: translateX(-50%);

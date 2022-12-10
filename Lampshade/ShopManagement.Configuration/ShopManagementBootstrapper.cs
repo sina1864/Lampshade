@@ -12,6 +12,7 @@ using ShopManagement.Application.Contracts.Product;
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Application.Contracts.ProductPicture;
 using ShopManagement.Application.Contracts.Slide;
+using ShopManagement.Application.Contracts.Wishlist;
 using ShopManagement.Configuration.Permissions;
 using ShopManagement.Domain.OrderAgg;
 using ShopManagement.Domain.ProductAgg;
@@ -19,6 +20,7 @@ using ShopManagement.Domain.ProductCategoryAgg;
 using ShopManagement.Domain.ProductPictureAgg;
 using ShopManagement.Domain.Services;
 using ShopManagement.Domain.SlideAgg;
+using ShopManagement.Domain.WishlistAgg;
 using ShopManagement.Infrastructure.AccountAcl;
 using ShopManagement.Infrastructure.EFCore;
 using ShopManagement.Infrastructure.EFCore.Repository;
@@ -54,6 +56,9 @@ namespace ShopManagement.Configuration
             services.AddTransient<IProductCategoryQuery, ProductCategoryQuery>();
             services.AddTransient<IProductQuery, ProductQuery>();
             services.AddTransient<ICartCalculatorService, CartCalculatorService>();
+
+            services.AddTransient<IWishlistRepository, WishlistRepository>();
+            services.AddTransient<IWishlistApplication, WishlistApplication>();
 
             services.AddTransient<IPermissionExposer, ShopPermissionExposer>();
             services.AddDbContext<ShopContext>(x => x.UseSqlServer(connectionString));

@@ -1,0 +1,18 @@
+﻿@model _01_LampshadeQuery.SearchModel
+
+<div class="search-overlay" id="search-overlay">
+    <a href="javascript:void(0)" class="close-search-overlay" id="close-search-overlay">
+        <i class="ion-ios-close-empty"></i>
+    </a>
+    <div class="search-form">
+        <form method="get" asp-page="/Search">
+            <input type="search" name="value" id="value" placeholder="هرچه می خواهید در فروشگاه جستجو کنید ...">
+            <select name="category" asp-items='new SelectList(Model.ProductCategories, "Name", "Name")'>
+                <option value="0">تمام دسته بندی ها</option>
+            </select>
+            <button type="submit">
+                <i class="ion-android-search"></i>
+            </button>
+        </form>
+    </div>
+</div>

@@ -1,11 +1,9 @@
 ﻿@page
 @model ServiceHost.Areas.Administration.Pages.Shop.Products.IndexModel
 @{
-}
-
-@{
     Layout = "Shared/_AdminLayout";
     ViewData["title"] = "مدیریت محصولات";
+    ViewData["selected"] = "shop";
 }
 
 <div class="row">
@@ -102,7 +100,7 @@
     <script src="~/adminTheme/assets/datatables/dataTables.bootstrap.js"></script>
 
     <script type="text/javascript">
-        $(document).ready(function () {
+        $(document).ready(function() {
             $('#datatable').dataTable();
         });
     </script>

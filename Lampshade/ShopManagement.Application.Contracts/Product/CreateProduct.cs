@@ -10,13 +10,12 @@ namespace ShopManagement.Application.Contracts.Product
     {
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string Name { get; set; }
-
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string Code { get; set; }
-
+        [Required(ErrorMessage = ValidationMessages.IsRequired)]
+        public string Brand { get; set; }
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string ShortDescription { get; set; }
-
         public string Description { get; set; }
         public IFormFile Picture { get; set; }
         public string PictureAlt { get; set; }

@@ -102,7 +102,7 @@ namespace ServiceHost
                 .AddApplicationPart(typeof(InventoryController).Assembly)
                 .AddNewtonsoftJson();
 
-            services.AddReCaptcha(Configuration.GetSection("ReCaptcha"));
+            services.AddReCaptcha(Configuration.GetSection("GoogleReCaptcha"));
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

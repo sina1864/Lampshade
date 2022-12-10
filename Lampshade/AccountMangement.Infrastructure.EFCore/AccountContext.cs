@@ -2,7 +2,6 @@
 using AccountManagement.Domain.RoleAgg;
 using AccountMangement.Infrastructure.EFCore.Mappings;
 using Microsoft.EntityFrameworkCore;
-using System;
 
 namespace AccountMangement.Infrastructure.EFCore
 {

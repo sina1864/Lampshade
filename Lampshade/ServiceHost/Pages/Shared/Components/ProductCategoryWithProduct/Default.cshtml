@@ -1,4 +1,6 @@
-﻿@model List<_01_LampshadeQuery.Contracts.ProductCategory.ProductCategoryQueryModel>
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<_01_LampshadeQuery.Contracts.ProductCategory.ProductCategoryQueryModel>
+@inject _0_Framework.Application.IAuthHelper AuthHelper
 
 <div class="single-row-slider-tab-area section-space">
     <div class="container">
@@ -64,6 +66,19 @@
                                                             <img src="~/ProductPictures/@product.Picture" title="@product.PictureTitle" class="img-fluid"
                                                                  alt="@product.PictureAlt">
                                                         </a>
+                                                        <div class="hover-icons">
+                                                            <a onclick="addToCart('@product.Id', '@product.Name', '@product.DoublePrice', '@product.Picture')"><i class="ion-bag"></i></a>
+                                                            @if (AuthHelper.IsAuthenticated())
+                                                            {
+                                                                <a asp-page="/Wishlist"><i class="ion-heart"></i></a>
+                                                            }
+                                                            else
+                                                            {
+                                                                <a asp-page="/Account"><i class="ion-heart"></i></a>
+                                                            }
+                                                            <a href="javascript:void(0)"><i class="ion-android-options"></i></a>
+                                                            <a asp-page="/Product" asp-route-id="@product.Slug"><i class="ion-android-open"></i></a>
+                                                        </div>
                                                     </div>
                                                     <div class="single-grid-product__content">
                                                         <div class="single-grid-product__category-rating">

@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using _0_Framework.Application;
 using _01_LampshadeQuery.Contracts.Product;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -62,7 +61,6 @@ namespace ServiceHost.Pages
             //if (CartItems.Any(x => !x.IsInStock))
             //    return RedirectToPage("/Cart");
             //return RedirectToPage("/Checkout");
-
             return RedirectToPage(CartItems.Any(x => !x.IsInStock) ? "/Cart" : "/Checkout");
         }
     }

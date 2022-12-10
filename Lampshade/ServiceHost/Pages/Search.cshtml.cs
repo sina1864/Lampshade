@@ -15,10 +15,10 @@ namespace ServiceHost.Pages
             _productQuery = productQuery;
         }
 
-        public void OnGet(string value)
+        public void OnGet(string value, string category)
         {
             Value = value;
-            Products = _productQuery.Search(value);
+            Products = _productQuery.Search(value, category);
         }
     }
 }

@@ -69,6 +69,9 @@ namespace ShopManagement.Infrastructure.EFCore.Migrations
                         .HasColumnType("bigint")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<string>("Brand")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<long>("CategoryId")
                         .HasColumnType("bigint");
 
@@ -278,6 +281,33 @@ namespace ShopManagement.Infrastructure.EFCore.Migrations
                     b.ToTable("Slides");
                 });
 
+            modelBuilder.Entity("ShopManagement.Domain.WishlistAgg.Wishlist", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<long>("AccountId")
+                        .HasColumnType("bigint");
+
+                    b.Property<DateTime>("CreationDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("ProductName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProductPicture")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProductSlug")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Wishlists");
+                });
+
             modelBuilder.Entity("ShopManagement.Domain.OrderAgg.Order", b =>
                 {
                     b.OwnsMany("ShopManagement.Domain.OrderAgg.OrderItem", "Items", b1 =>
@@ -336,6 +366,44 @@ namespace ShopManagement.Infrastructure.EFCore.Migrations
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("ShopManagement.Domain.WishlistAgg.Wishlist", b =>
+                {
+                    b.OwnsMany("ShopManagement.Domain.WishlistAgg.WishlistItem", "Items", b1 =>
+                        {
+                            b1.Property<long>("Id")
+                                .ValueGeneratedOnAdd()
+                                .HasColumnType("bigint")
+                                .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                            b1.Property<DateTime>("CreationDate")
+                                .HasColumnType("datetime2");
+
+                            b1.Property<long>("ProductId")
+                                .HasColumnType("bigint");
+
+                            b1.Property<string>("ProductName")
+                                .HasColumnType("nvarchar(max)");
+
+                            b1.Property<string>("ProductPicture")
+                                .HasColumnType("nvarchar(max)");
+
+                            b1.Property<string>("ProductSlug")
+                                .HasColumnType("nvarchar(max)");
+
+                            b1.Property<long>("WishlistId")
+                                .HasColumnType("bigint");
+
+                            b1.HasKey("Id");
+
+                            b1.HasIndex("WishlistId");
+
+                            b1.ToTable("WishlistItems");
+
+                            b1.WithOwner("Wishlist")
+                                .HasForeignKey("WishlistId");
+                        });
                 });
 #pragma warning restore 612, 618
         }

@@ -30,7 +30,7 @@ namespace ShopManagement.Application
             var categorySlug = _productCategoryRepository.GetSlugById(command.CategoryId);
             var path = $"{categorySlug}//{slug}";
             var picturePath = _fileUploader.Upload(command.Picture, path);
-            var product = new Product(command.Name, command.Code,
+            var product = new Product(command.Name, command.Code, command.Brand,
                 command.ShortDescription, command.Description, picturePath,
                 command.PictureAlt, command.PictureTitle, command.CategoryId, command.SubcategoryId, slug,
                 command.Keywords, command.MetaDescription);
@@ -53,7 +53,7 @@ namespace ShopManagement.Application
             var path = $"{product.Category.Slug}/{slug}";
 
             var picturePath = _fileUploader.Upload(command.Picture, path);
-            product.Edit(command.Name, command.Code,
+            product.Edit(command.Name, command.Code, command.Brand,
                 command.ShortDescription, command.Description, picturePath,
                 command.PictureAlt, command.PictureTitle, command.CategoryId, command.SubcategoryId, slug,
                 command.Keywords, command.MetaDescription);

@@ -9,6 +9,7 @@ namespace ShopManagement.Domain.ProductAgg
     {
         public string Name { get; private set; }
         public string Code { get; private set; }
+        public string Brand { get; private set; }
         public string ShortDescription { get; private set; }
         public string Description { get; private set; }
         public string Picture { get; private set; }
@@ -23,12 +24,13 @@ namespace ShopManagement.Domain.ProductAgg
         public ProductCategory Subcategory { get; private set; }
         public List<ProductPicture> ProductPictures { get; private set; }
 
-        public Product(string name, string code, string shortDescription, string description,
+        public Product(string name, string code, string brand, string shortDescription, string description,
             string picture, string pictureAlt, string pictureTitle, long categoryId, long? subcategoryId, string slug,
             string keywords, string metaDescription)
         {
             Name = name;
             Code = code;
+            Brand = brand;
             ShortDescription = shortDescription;
             Description = description;
             Picture = picture;
@@ -41,12 +43,13 @@ namespace ShopManagement.Domain.ProductAgg
             MetaDescription = metaDescription;
         }
 
-        public void Edit(string name, string code, string shortDescription, string description, string picture,
+        public void Edit(string name, string code, string brand, string shortDescription, string description, string picture,
             string pictureAlt, string pictureTitle, long categoryId, long? subcategoryId, string slug,
             string keywords, string metaDescription)
         {
             Name = name;
             Code = code;
+            Brand = brand;
             ShortDescription = shortDescription;
             Description = description;
 

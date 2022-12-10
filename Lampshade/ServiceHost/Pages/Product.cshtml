@@ -1,5 +1,6 @@
 ﻿@page "{id}"
 @model ServiceHost.Pages.ProductModel
+@inject _0_Framework.Application.IAuthHelper AuthHelper
 @{
     ViewData["Title"] = Model.Product.Name;
     ViewData["keywords"] = Model.Product.Keywords;
@@ -116,6 +117,7 @@
                                             <a asp-page="/ProductCategory" asp-route-id="@Model.Product.CategorySlug">@Model.Product.Category</a>
                                         </p>
                                         <h2 class="product-title">@Model.Product.Name</h2>
+                                        <h5 class="product-title">@Model.Product.Brand</h5>
                                         <div class="product-rating">
                                             <span class="rating">
                                                 <i class="ion-android-star active"></i>
@@ -173,6 +175,22 @@
                                                     <i class="ion-bag"></i> افزودن به سبد خرید
                                                 </a>
                                             </div>
+                                            @if (AuthHelper.IsAuthenticated())
+                                            {
+                                                <div class="product-buttons">
+                                                    <a class="cart-btn" asp-page="/Wishlist" asp-page-handler="AddItem" asp-route-productId="@Model.Product.Id">
+                                                        <i class="ion-heart"></i> افزودن به لیست علاقه مندی
+                                                    </a>
+                                                </div>
+                                            }
+                                            else
+                                            {
+                                                <div class="product-buttons">
+                                                    <a class="cart-btn" asp-page="/Account">
+                                                        <i class="ion-heart"></i> افزودن به لیست علاقه مندی
+                                                    </a>
+                                                </div>
+                                            }
                                         </div>
 
                                         <div class="social-share-buttons mt-20">

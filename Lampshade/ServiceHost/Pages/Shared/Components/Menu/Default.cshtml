@@ -20,11 +20,22 @@
                                 </li>
                                 <li class="menu-item-has-children">
                                     <a>محصولات</a>
-                  @*                  <ul class="sub-menu">
-                                        @foreach (var category in Model.ProductCategories)
+@*                                    <ul class="sub-menu">
+                                        @foreach (var category in Model.ProductCategories.Where(x => x.ParentId == null))
                                         {
                                             <li>
                                                 <a asp-page="./ProductCategory" asp-route-id="@category.Slug" asp-route-pagenum="1">@category.Name</a>
+                                            </li>
+                                        }
+                                        @foreach (var category in Model.ProductCategories.Where(x => x.ParentId != null))
+                                        {
+                                            <li class="menu-item-has-children">
+                                                <a asp-page="./ProductCategory" asp-route-id="@category.Slug" asp-route-pagenum="1">@category.Name</a>
+                                                <ul class="sub-menu">
+                                                    <li>
+                                                        <a asp-page="./ProductCategory" asp-route-id="@category.Slug" asp-route-pagenum="1">@category.Name</a>
+                                                    </li>
+                                                </ul>
                                             </li>
                                         }
                                     </ul>*@
@@ -35,11 +46,13 @@
                                         <li>
                                             <a asp-page="./ProductCategory" asp-route-id="لوازم-خانگی" asp-route-pagenum="1">لوازم خانگی</a>
                                         </li>
-                                        <li>
+                                        <li class="menu-item-has-children">
                                             <a asp-page="./ProductCategory" asp-route-id="مد-و-پوشاک" asp-route-pagenum="1">مد و پوشاک</a>
-                                        </li>
-                                        <li class="dropdown-item">
-                                            <a asp-page="./ProductSubcategory" asp-route-id="لباس" asp-route-pagenum="1">لباس</a>
+                                            <ul class="sub-menu">
+                                                <li>
+                                                    <a asp-page="./ProductSubcategory" asp-route-id="لباس" asp-route-pagenum="1">لباس</a>
+                                                </li>
+                                            </ul>
                                         </li>
                                     </ul>
                                 </li>
@@ -122,7 +135,6 @@
                                             <span></span>
                                         </div>
                                     </a>
-
                                     <div class="settings-menu-wrapper" id="settings-menu-wrapper">
                                         <div class="single-settings-block">
                                             <h4 class="title">پروفایل من </h4>
@@ -133,34 +145,14 @@
                                                 <li>
                                                     <a asp-page="/Account">ورود</a>
                                                 </li>
+                                                @if (AuthHelper.IsAuthenticated())
+                                                {
+                                                    <li>
+                                                        <a asp-page="/Wishlist" asp-route-id="id">لیست علاقه مندی ها</a>
+                                                    </li>
+                                                }
                                             </ul>
                                         </div>
-                                        @*<div class="single-settings-block">
-                                        <h4 class="title">CURRENCY: USD </h4>
-                                        <ul>
-                                        <li>
-                                        <a href="javascript:void(0)">€ Euro</a>
-                                        </li>
-                                        <li>
-                                        <a href="javascript:void(0)">$ US Dollar</a>
-                                        </li>
-                                        </ul>
-                                        </div>
-                                        <div class="single-settings-block">
-                                        <h4 class="title">LANGUAGE: EN-GB </h4>
-                                        <ul>
-                                        <li>
-                                        <a href="javascript:void(0)">
-                                        <img src="~/Theme/assets/img/icons/en-gb.png" alt=""> English
-                                        </a>
-                                        </li>
-                                        <li>
-                                        <a href="javascript:void(0)">
-                                        <img src="~/Theme/assets/img/icons/de-de.png" alt=""> Germany
-                                        </a>
-                                        </li>
-                                        </ul>
-                                        </div>*@
                                     </div>
                                 </div>
                             </li>

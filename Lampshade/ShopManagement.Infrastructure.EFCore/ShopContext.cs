@@ -4,6 +4,7 @@ using ShopManagement.Domain.ProductAgg;
 using ShopManagement.Domain.ProductCategoryAgg;
 using ShopManagement.Domain.ProductPictureAgg;
 using ShopManagement.Domain.SlideAgg;
+using ShopManagement.Domain.WishlistAgg;
 using ShopManagement.Infrastructure.EFCore.Mapping;
 
 namespace ShopManagement.Infrastructure.EFCore
@@ -15,6 +16,7 @@ namespace ShopManagement.Infrastructure.EFCore
         public DbSet<ProductPicture> ProductPictures { get; set; }
         public DbSet<Slide> Slides { get; set; }
         public DbSet<Order> Orders { get; set; }
+        public DbSet<Wishlist> Wishlists { get; set; }
 
         public ShopContext(DbContextOptions<ShopContext> options) : base(options)
         {
